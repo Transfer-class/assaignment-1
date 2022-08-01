@@ -9,7 +9,12 @@ section{
 
     
 .role{
-    margin:6%;
+    margin-left: 100px;
+}
+.role img{
+    margin-right: 45%;
+    width:80%;
+    
 }
 .orange{
     color:violet;
@@ -31,4 +36,18 @@ section{
 .about-me img{
     width:70%;
     margin-left:55%;
+}
+.contact-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    padding:10px 30px;
+    border-radius:50%;
+}
+.bottom-img{
+    background-image: url(images/shapes/Frame\ 58.jpg);
+    background-repeat: no-repeat;
+}
+.paragraph{
+    font-size: 24px;
+    margin-bottom: 90px;
 }
